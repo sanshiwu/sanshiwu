@@ -8,3 +8,6 @@ https://www.sanshiwu.com/online.html
 
 纯CSS实现轮播图.
 https://www.sanshiwu.com/index.html
+
+基于JDK实现的日志框架.
+https://www.sanshiwu.com/adoc/juli.html
